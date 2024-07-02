@@ -1,0 +1,105 @@
+.moono{
+   
+    margin-top: 120px;
+    margin-left: 150px;
+}
+.monoalphabetic-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  } 
+  .monoalphabetic-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+  } 
+  .monoalphabetic-input-container {
+    margin-bottom: 15px;
+    width: 95%;
+  }  
+  .monoalphabetic-label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 14px;
+  }  
+  .monoalphabetic-input {
+    width: 100%;
+    padding: 8px;
+    font-size: 14px;
+  } 
+  .monoalphabetic-button {
+    background-color: blue;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  .monoalphabetic-buttons{
+    display: flex;
+    justify-content: space-between;
+  }
+.monoalphabeticdecrypt-button{
+    background-color: blue;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  .monoalphabetic-result {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+  }
+  .randomkeybutton{
+    background-color: blue;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  .random-key{
+    margin-top: 4px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+  }
+  .rsa-input-primes{
+   height: 28px;
+  } 
+  .rsa-input{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .primes-key{
+    margin-top: 4px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+    height: 20px;
+  }
+  .primeskeybutton{
+    background-color: blue;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
